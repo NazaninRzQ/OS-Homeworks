@@ -1,0 +1,14 @@
+C:\Users\T460s\Desktop\Os Lab\firstHW\bin\Debug\net8.0\firstHW.exe
+C:\Users\T460s\Desktop\Os Lab\firstHW\bin\Debug\net8.0\firstHW.deps.json
+C:\Users\T460s\Desktop\Os Lab\firstHW\bin\Debug\net8.0\firstHW.runtimeconfig.json
+C:\Users\T460s\Desktop\Os Lab\firstHW\bin\Debug\net8.0\firstHW.dll
+C:\Users\T460s\Desktop\Os Lab\firstHW\bin\Debug\net8.0\firstHW.pdb
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\firstHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\firstHW.AssemblyInfoInputs.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\firstHW.AssemblyInfo.cs
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\firstHW.csproj.CoreCompileInputs.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\firstHW.dll
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\refint\firstHW.dll
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\firstHW.pdb
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\firstHW.genruntimeconfig.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\obj\Debug\net8.0\ref\firstHW.dll
