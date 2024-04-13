@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kxu/87S0/b91W8TI3Jd1VB/QKxSZwOVtImKUUW7l20jGOycI3o7Ipodpo8gUgQ35d4QuNw218myPB664dRhxdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\T460s\\Desktop\\Os Lab\\secondHW\\secondHW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T460s\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\T460s\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
