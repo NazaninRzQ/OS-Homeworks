@@ -1,0 +1,15 @@
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\bin\Debug\net8.0\thirdHW.exe
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\bin\Debug\net8.0\thirdHW.deps.json
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\bin\Debug\net8.0\thirdHW.runtimeconfig.json
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\bin\Debug\net8.0\thirdHW.dll
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\bin\Debug\net8.0\thirdHW.pdb
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\thirdHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\thirdHW.AssemblyInfoInputs.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\thirdHW.AssemblyInfo.cs
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\thirdHW.csproj.CoreCompileInputs.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\thirdHW.sourcelink.json
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\thirdHW.dll
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\refint\thirdHW.dll
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\thirdHW.pdb
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\thirdHW.genruntimeconfig.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\thirdHW\obj\Debug\net8.0\ref\thirdHW.dll
