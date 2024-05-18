@@ -1,0 +1,15 @@
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\bin\Debug\net8.0\Autoresetevent.exe
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\bin\Debug\net8.0\Autoresetevent.deps.json
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\bin\Debug\net8.0\Autoresetevent.runtimeconfig.json
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\bin\Debug\net8.0\Autoresetevent.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\bin\Debug\net8.0\Autoresetevent.pdb
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\Autoresetevent.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\Autoresetevent.AssemblyInfoInputs.cache
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\Autoresetevent.AssemblyInfo.cs
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\Autoresetevent.csproj.CoreCompileInputs.cache
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\Autoresetevent.sourcelink.json
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\Autoresetevent.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\refint\Autoresetevent.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\Autoresetevent.pdb
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\Autoresetevent.genruntimeconfig.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Autoresetevent\obj\Debug\net8.0\ref\Autoresetevent.dll

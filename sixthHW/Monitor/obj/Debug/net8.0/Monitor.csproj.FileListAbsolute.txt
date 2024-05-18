@@ -1,0 +1,15 @@
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\bin\Debug\net8.0\Monitor.exe
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\bin\Debug\net8.0\Monitor.deps.json
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\bin\Debug\net8.0\Monitor.runtimeconfig.json
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\bin\Debug\net8.0\Monitor.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\bin\Debug\net8.0\Monitor.pdb
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\Monitor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\Monitor.AssemblyInfoInputs.cache
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\Monitor.AssemblyInfo.cs
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\Monitor.csproj.CoreCompileInputs.cache
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\Monitor.sourcelink.json
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\Monitor.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\refint\Monitor.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\Monitor.pdb
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\Monitor.genruntimeconfig.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Monitor\obj\Debug\net8.0\ref\Monitor.dll

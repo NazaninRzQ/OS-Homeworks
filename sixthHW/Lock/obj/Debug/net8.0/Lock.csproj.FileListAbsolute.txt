@@ -1,0 +1,15 @@
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\bin\Debug\net8.0\Lock.exe
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\bin\Debug\net8.0\Lock.deps.json
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\bin\Debug\net8.0\Lock.runtimeconfig.json
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\bin\Debug\net8.0\Lock.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\bin\Debug\net8.0\Lock.pdb
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\Lock.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\Lock.AssemblyInfoInputs.cache
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\Lock.AssemblyInfo.cs
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\Lock.csproj.CoreCompileInputs.cache
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\Lock.sourcelink.json
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\Lock.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\refint\Lock.dll
+c:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\Lock.pdb
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\Lock.genruntimeconfig.cache
+C:\Users\T460s\Desktop\Os Lab\firstHW\sixthHW\Lock\obj\Debug\net8.0\ref\Lock.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Autoresetevent/1.0.0": {
+        "runtime": {
+          "Autoresetevent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autoresetevent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
